@@ -10,4 +10,4 @@ Here I'll post all the queries that I learn in the course.
 
 ---
 
-> In order for judge to give 100/100 points you should discard the GO separators in the queries and just upload the queries themselves using <mark>;</mark> to separate them.
+> In order for judge to give 100/100 points you should discard the GO separators in the queries and just upload the queries themselves using <mark style="background-color: #FFFF00">;</mark> to separate them.

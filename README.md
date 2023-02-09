@@ -18,6 +18,9 @@ Here I'll post all the queries that I learn in the course.
 ### 5. [Subqueries and JOINs Exercises](https://github.com/HEMAndonov98/MS-SQL/tree/main/Subqueries%20and%20JOINs%20Exercise)
 - Check solutions here -> [Judge](https://judge.softuni.org/Contests/393/Subqueries-and-Joins)
 
+### 6. [Indices and Data Aggregation Exercises](https://github.com/HEMAndonov98/MS-SQL/tree/main/Indices%20and%20Data%20Aggregation%20Exercises)
+- Check Solutions here[Judge](https://judge.softuni.org/Contests/291/Indices-and-Data-Aggregation)
+
 ---
 
 > In order for judge to give 100/100 points you should discard the GO separators in the queries and just upload the queries themselves using <mark style="background-color: #FFFF00">;</mark> to separate them.

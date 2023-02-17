@@ -80,7 +80,8 @@ GO
 
 -- Problem 18
 
-          SELECT [DepartmentID],
+          SELECT
+        DISTINCT [DepartmentID],
                  [Salary] 
               AS [ThirdHighestSalary]
             FROM 

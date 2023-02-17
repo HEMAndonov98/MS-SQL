@@ -42,7 +42,7 @@ GO
 
     UPDATE [NewTable]
        SET [Salary] += 5000
-     WHERE [ManagerID] = 1
+     WHERE [DepartmentID] = 1
 
 
 GO
